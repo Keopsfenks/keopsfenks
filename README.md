@@ -18,3 +18,5 @@
 [![](https://visitcount.itsvg.in/api?id=Keopsfenks&icon=2&color=11)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+[![<username>'s 42 stats](https://badge.mediaplus.ma/starryblue/ogcetin)](https://github.com/keopsfenks)
