@@ -8,6 +8,8 @@
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 # 📊 GitHub Stats:
+
+[![segurbuz's 42 stats](https://badge42.vercel.app/api/v2/clcroh2lh00350fjvnborozxd/stats?cursusId=21&coalitionId=196)](https://github.com/JaeSeoKim/badge42)
 ![](https://github-readme-stats.vercel.app/api?username=Keopsfenks&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Keopsfenks&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Keopsfenks&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
@@ -16,5 +18,3 @@
 [![](https://visitcount.itsvg.in/api?id=Keopsfenks&icon=2&color=11)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-[![segurbuz's 42 stats](https://badge.mediaplus.ma/starryblue/segurbuz)](https://github.com/oakoudad/badge42)
