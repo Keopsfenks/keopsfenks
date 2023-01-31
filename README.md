@@ -17,4 +17,4 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-[![<segurbuz>'s 42 stats](https://badge.mediaplus.ma/starryblue/<ogcetin>)](https://github.com/oakoudad/badge42)
+[![segurbuz's 42 stats](https://badge.mediaplus.ma/starryblue/ogcetin)](https://github.com/oakoudad/badge42)
