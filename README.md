@@ -9,7 +9,7 @@
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 # 📊 GitHub Stats:
 
-[![segurbuz's 42 stats](https://badge.mediaplus.ma/starryblue/segurbuz?UM6P=off)](https://github.com/oakoudad/badge42)
+[![segurbuz's 42 stats](https://badge.mediaplus.ma/starryblue/segurbuz?UM6P=off)](https://github.com/Keopsfenks)
 
 ![](https://github-readme-stats.vercel.app/api?username=Keopsfenks&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Keopsfenks&theme=dark&hide_border=false)<br/>
